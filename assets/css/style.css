@@ -194,6 +194,7 @@ hr {
 
 #times {
     background-image: url('../images/times-background.webp');
+
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
